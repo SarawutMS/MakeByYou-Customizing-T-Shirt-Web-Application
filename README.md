@@ -1,4 +1,4 @@
-# MakeByYou-Customizing-T-Shirt-Web-Application
+# MakeByYou : Customizing T-Shirt Web Application
 ## Project setup
 ```
 npm install
