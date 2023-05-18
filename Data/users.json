@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "635a011245faa7887ac97fe8"
+  },
+  "email": "root",
+  "name": "root",
+  "last_name": "root",
+  "password": "root"
+},{
+  "_id": {
+    "$oid": "63f5f7ae0702622a75fe195a"
+  },
+  "email": "admin",
+  "name": "Sarawut",
+  "last_name": "Munsing",
+  "password": "123456"
+}]
