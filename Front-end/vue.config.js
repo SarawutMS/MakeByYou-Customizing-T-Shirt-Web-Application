@@ -9,6 +9,6 @@ module.exports = defineConfig({
   outputDir: 'TShirt',
 
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/'
+    ? '/TShirt/'
     : ''
 })
